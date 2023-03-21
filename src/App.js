@@ -32,7 +32,7 @@ const App = () => {
 	};
 	console.log("original number", original_number);
 	return (
-		<div className="flex flex-col w-screen h-screen">
+		<div className="flex flex-col w-screen h-screen bg-orange-200">
 			<div className="flex w-full justify-center md:text-5xl text-3xl text-green-400 ">
 				<p className="my-10 transition-all duration-200 ease-out">
 					Guess The Number
