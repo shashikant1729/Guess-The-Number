@@ -2,7 +2,8 @@
 
 This project is Live On [Guess The Number](https://skant-guess-number.netlify.app/).
 
-![image]()
+![image](https://user-images.githubusercontent.com/87310011/226746319-994f5ac2-764e-440c-8a84-cd7aced2bd80.png)
+
 
 ## Available Scripts
 
