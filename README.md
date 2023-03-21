@@ -1,4 +1,4 @@
-# Entertainment Game For Fun
+# Game For Fun : Guess The Number
 
 This project is Live On [Guess The Number](https://github.com/facebook/create-react-app).
 
