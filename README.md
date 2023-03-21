@@ -1,6 +1,8 @@
 # Game For Fun : Guess The Number
 
-This project is Live On [Guess The Number](https://github.com/facebook/create-react-app).
+This project is Live On [Guess The Number](https://skant-guess-number.netlify.app/).
+
+![image]()
 
 ## Available Scripts
 
